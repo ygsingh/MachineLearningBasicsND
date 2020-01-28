@@ -1,1 +1,1 @@
-# MLBND
+# Machine Learning Basics Nanodegree - Udacity
