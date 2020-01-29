@@ -6,7 +6,7 @@ The goal of the Machine Learning Basics Nanodegree from Udacity is to learn tech
 - Optimize, tune, and improve algorithms according to specific metrics like accuracy and speed.
 - Compare the performaces of learned models using suitable metrics.
 
-This is the repository of my exercises and projects for this nanodegree.
+This is the repository of my exercises and projects for Machine Learning Basics Nanodegree from Udacity.
 ## Course 1: Supervised Learning
 - Lesson 1: Regression
 - Lesson 2: Perceptron Algorithm
