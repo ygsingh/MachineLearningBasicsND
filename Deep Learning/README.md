@@ -10,7 +10,7 @@
 - Evaluation Matrices
 - Training and Tuning Models
 
-## [Project: Find Donors for CharityML](Supervised%20Learning/Project:%20Finding%20Donors)
+## [Project: Find Donors for CharityML](Supervised%20Learning/Project:%20Finding%20Donors/finding_donors.ipynb)
 This project is designed to get you acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
 Things you will learn by completing this project:
