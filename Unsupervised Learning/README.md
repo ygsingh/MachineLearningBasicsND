@@ -7,7 +7,7 @@
 - Dimensionality Reduction
 
 
-## [Project: Create Customer Segments](Unsupervised%20Learning/Project:%20Identify%20Customer%20Segments/Identify_Customer_Segments.ipynb)
+## Project: Create Customer Segments
 This project is designed to get you acquainted with the many unsupervised learning algorithms available in sklearn. The objective is to look at relationships between demographics features, organize the population into clusters, and see how prevalent customers are in each of the segments obtained.
 Things you will learn by completing this project:
 
