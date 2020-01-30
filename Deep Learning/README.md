@@ -1,21 +1,10 @@
-# Supervised Machine Learning
+# Deep Learning
 
 ## Exercises
-- Regression
-- Perceptron Algorithm
-- Decision Trees
-- Naive Bayes
-- Support Vector Machines
-- Ensemble of Learners
-- Evaluation Matrices
-- Training and Tuning Models
+- Introduction to Neural Networks
+- Implementing Gradient Descent
+- Training Neural Networks
+- Deep Learning with PyTorch
 
-## [Project: Find Donors for CharityML](Supervised%20Learning/Project:%20Finding%20Donors/finding_donors.ipynb)
-This project is designed to get you acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
-
-Things you will learn by completing this project:
-
-- How to identify when preprocessing is needed, and how to apply it.
-- How to establish a benchmark for a solution to the problem.
-- What each of several supervised learning algorithms accomplishes given a specific dataset.
-- How to investigate whether a candidate solution model is adequate for the problem.
+## Project 2: Build an Image Classifier
+In this project, you'll be implementing an image classification application. This app will train a deep learning model on a data set of images, then use the trained model to classify images. First, you'll develop your code in a Jupyter notebook to make sure your taining implementation works. Then, you'll convert the code to a Python applicaiton that runs the command line.
