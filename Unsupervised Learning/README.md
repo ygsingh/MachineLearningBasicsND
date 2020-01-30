@@ -1,4 +1,4 @@
-# Supervised Machine Learning
+# Unsupervised Machine Learning
 
 ## Exercises
 - Clustering
